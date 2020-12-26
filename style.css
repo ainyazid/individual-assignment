@@ -1,12 +1,25 @@
 body
 { 
-background-color:lightcoral
+background-color:peachpuff
 }
 
 p
 
 {
-font-family: 'Shadows Into Light', cursive;
-font-size: 30px
-font-color:Grey
+font-family: 'Dokdo', cursive;
+font-size:30px;
+color:#8b008b;
+border: solid;
+border-color:#ff0000 #f6e0b5 #00ffff;
+border-radius: 
+
+}
+
+h1
+{
+font-family: 'Dokdo', cursive;
+font-size:30px;
+border: double;
+border-color:#FFD700 #ff7f50;
+border-radius: 35px
 }
