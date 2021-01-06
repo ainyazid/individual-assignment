@@ -1,25 +1,36 @@
 body
 { 
-background-color:peachpuff
+background-image:url("belang.jpg");
 }
 
 p
 
 {
-font-family: 'Dokdo', cursive;
-font-size:30px;
+font-family: 'Crafty Girls', cursive;
+font-size:25px;
 color:#8b008b;
 border: solid;
-border-color:#ff0000 #f6e0b5 #00ffff;
+border-color:#79BAEC #FFF380 #E77471;
 border-radius: 
 
 }
 
 h1
 {
-font-family: 'Dokdo', cursive;
+font-family: 'Crafty Girls', cursive;
 font-size:30px;
 border: double;
 border-color:#FFD700 #ff7f50;
 border-radius: 35px
+}
+
+
+Button {
+background-color: #FC6C85;
+border: sOLID;
+color:#FCDFFF;
+Font-size:16px;
+Border-radius:15px;
+width:250px;
+
 }
